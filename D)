@@ -1,4 +1,3 @@
-<>
 if(0>n1 && n1<10){cout<<"tiene 1 cifra"<<endl;}
 else if(10>n1 && n1<100){cout<<"tiene 2 cifra"<<endl;}
 else if(100>n1 && n1<1000){cout<<"tiene 3 cifra"<<endl;}
