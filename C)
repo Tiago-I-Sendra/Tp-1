@@ -1,0 +1,7 @@
+la mejor forma hacer este codigo,seria:<>
+if(N1>10){A=A+1;}
+if(N2>10){A=A+1;}
+if(N3>10){A=A+1;}
+if(A=3){cout<<"son mayores a 10"<<endl;}
+else if(A=2){cout<<"algunos son mayores a 10"<<endl;}
+else if(A=1){cout<<"ninguno es mayor a 10"<<endl;}
