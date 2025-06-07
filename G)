@@ -1,0 +1,5 @@
+cin>>dinero;
+while(n2=0){cout<<"que desea retirar"<<endl;
+cin>>sacado;
+if(sacado>dinero){cout<<"dinero insuficiente"<<endl;}
+if(sacado<=dinero){dinero = sacado - dinero;cout<<"se retiro:"<<sacado<<endl;cout<<"solo queda:"<<dinero<<endl;N2=N2+1;}
