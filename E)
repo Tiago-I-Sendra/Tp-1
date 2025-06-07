@@ -1,0 +1,7 @@
+cin>>N1;//aciertos
+cin>>N2;//total
+N3 = N1/N2 * 100;
+if(N3>=90){cout<<"nivel maximo"<<endl;}
+else if(N3>=75 && N3<=90){cout<<"nivel medio"<<endl;}
+else if(N3>=50 && N3<=75){cout<<"nivel regular"<<endl;}
+else cout<<"fuera de nivel"<<endl;
