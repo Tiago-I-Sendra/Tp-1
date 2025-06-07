@@ -1,0 +1,4 @@
+if(entradas == 2){N3 = 10/pago * 100;}
+else if(entradas == 3){N3 = 15/pago * 100;}
+else if(entradas == 4){N3 = 20/pago * 100;}
+cout<<"el costo es"<<N3<<endl;
