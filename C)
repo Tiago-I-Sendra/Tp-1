@@ -1,4 +1,4 @@
-la mejor forma hacer este codigo,seria:<>
+la mejor forma hacer este codigo,seria:
 if(N1>10){A=A+1;}
 if(N2>10){A=A+1;}
 if(N3>10){A=A+1;}
